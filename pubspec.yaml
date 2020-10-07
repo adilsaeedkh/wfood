@@ -1,0 +1,91 @@
+name: wfoodalbayt
+description: A new Flutter project.
+
+version: 1.2.0+2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl:
+  intl_translation:
+
+  cupertino_icons: ^0.1.2
+  scoped_model: ^1.0.1
+  google_fonts_arabic: ^1.1.7
+  font_awesome_flutter: ^8.5.0
+  wave: ^0.0.8
+  flutter_swiper: ^1.1.6
+  smooth_star_rating: ^1.0.3
+  flutter_custom_clippers: ^1.0.4
+  dio: ^2.1.16
+  http: ^0.12.0+2
+  intro_views_flutter:
+  bottomreveal: ^1.0.0
+  animated_floatactionbuttons: ^0.1.0
+  share: ^0.6.2+1
+  validate: ^1.7.0
+  video_player: ^0.10.2+1
+  shared_preferences: ^0.5.3+4
+  json_annotation: ^3.0.0
+  google_maps_flutter: ^0.5.21
+  location: ^2.3.5
+  flutter_calendar: ^0.0.8
+  flutter_calendar_carousel: ^1.3.23
+  flutter_datetime_picker:
+  rflutter_alert: ^1.0.3
+  transparent_image: ^1.0.0
+  url_launcher: ^5.1.3
+  splashscreen: ^1.2.0
+  mobile_sidebar: ^1.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/grocery/
+    - assets/girl.jpg
+    - assets/images/logo.png
+    - assets/travel/kathmandu1.jpg
+    - assets/travel/kathmandu2.jpg
+    - assets/travel/pashupatinath.jpg
+    - assets/travel/kathmandu2.jpg
+    - assets/travel/pashupatinath.jpg
+    - assets/travel/fewalake.jpg
+    - assets/videos/background.gif
+    - assets/videos/splash.gif
+    - assets/efe-kurnaz.jpg
+    - assets/rodion-kutsaev.jpeg
+    - assets/steve-johnson.jpeg
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/icon/book.png
+    - assets/icon/camera.png
+    - assets/icon/fashion.png
+    - assets/icon/food.png
+    - assets/icon/game.png
+    - assets/icon/handphone.png
+    - assets/icon/health.png
+    - assets/icon/mesin.png
+    - assets/icon/otomotif.png
+    - assets/icon/pc.png
+    - assets/icon/sport.png
+    - assets/icon/ticket.png
+    - assets/icon/truck.png
+    - assets/icon/chat.png
+    - assets/icon/notification.png
+    - assets/icon/callcenter.png
+    - assets/icon/setting.png
+    - assets/icon/aboutapp.png
+    - assets/icon/shopping-cart.png
+    - assets/icon/message.png
+    - assets/icon/girlcallcenter.png
+    - assets/icon/creditAcount.png
+    - assets/icon/flashSaleIcon.png
